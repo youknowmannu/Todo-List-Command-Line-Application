@@ -1,5 +1,5 @@
 **To-Do List Command Line Application**
-
+[To-Do List Application](images/todo_list_screenshot.png)
 Welcome to our stylish To-Do List Command Line Application! Manage your tasks with ease using this simple yet powerful tool.
 
 **Features 🚀**
