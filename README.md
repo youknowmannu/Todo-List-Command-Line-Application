@@ -1,4 +1,6 @@
-**To-Do List Command Line Application**
+<p align="center">
+  <h1>To-Do List Command Line Application</h1>
+</p>
 
 
 ![todolist png](https://github.com/youknowmannu/Todo-List-Command-Line-Application/assets/130030050/6d0ac0d4-995a-4552-ab11-590c0e657c1d)
