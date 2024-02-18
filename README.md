@@ -1,5 +1,6 @@
 **To-Do List Command Line Application**
-[To-Do List Application](images/todo_list_screenshot.png)
+![todolist png](https://github.com/youknowmannu/Todo-List-Command-Line-Application/assets/130030050/6d0ac0d4-995a-4552-ab11-590c0e657c1d)
+
 Welcome to our stylish To-Do List Command Line Application! Manage your tasks with ease using this simple yet powerful tool.
 
 **Features 🚀**
