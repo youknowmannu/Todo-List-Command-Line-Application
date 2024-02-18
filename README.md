@@ -3,12 +3,14 @@
 Welcome to our stylish To-Do List Command Line Application! Manage your tasks with ease using this simple yet powerful tool.
 
 **Features 🚀**
+
 Add Tasks: Keep track of everything you need to do by adding tasks to your list.
 Delete Tasks: Remove tasks that are no longer relevant or completed.
 Complete Tasks: Mark tasks as completed to track your progress.
 View To-Do List: See all your tasks at a glance to stay organized.
 
 **How to Use 🛠️**
+
 Add Task: Enter option 1, then type your task and hit Enter.
 Delete Task: Enter option 2, choose the task index, and confirm deletion.
 Complete Task: Enter option 3, select the task index, and mark it as completed.
